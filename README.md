@@ -194,7 +194,7 @@ Este proyecto es de uso personal. Si deseas usar este diseño como base para tu 
 
 ## 📧 Contacto
 
-- **Email**: davidg05.9@gmail.com
+- **Email**: davidwebstudio18@gmail.com
 - **WhatsApp**: +54 341 3232695
 - **LinkedIn**: [David E. Grant](https://www.linkedin.com/in/david-ezequiel-grant-812368133/)
 
